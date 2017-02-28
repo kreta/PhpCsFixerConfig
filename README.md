@@ -1,7 +1,7 @@
 # Kreta PHP CS Fixer Config
 >PHP linting tool using [PHP CS Fixer][2] for [Kreta][1] packages
 
-[![Build Status](https://travis-ci.org/kreta/PhpCSFixerConfig.svg?branch=master)](https://travis-ci.org/kreta/PhpCSFixerConfig)
+[![Build Status](https://travis-ci.org/kreta/PhpCsFixerConfig.svg?branch=master)](https://travis-ci.org/kreta/PhpCsFixerConfig)
 
 It's based on the ideas of [`refinery29/php-cs-fixer-config`](https://github.com/refinery29/php-cs-fixer-config/) and
 [`prooph/php-cs-fixer-config`](https://github.com/prooph/php-cs-fixer-config).
