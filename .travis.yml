@@ -31,6 +31,7 @@ script:
 cache:
     directories:
         - $HOME/.composer/cache/files
+        - $HOME/.php-cs-fixer
 
 matrix:
     fast_finish: true
