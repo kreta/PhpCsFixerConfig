@@ -125,7 +125,7 @@ Kreta is created by:
 **@gorkalaucirica** - [gorka.lauzirika@gmail.com](mailto:gorka.lauzirika@gmail.com)
 
 ##Licensing Options
-[![License](https://poser.pugx.org/kreta/kreta/license.svg)](https://github.com/kreta/kreta/blob/master/LICENSE)
+[![License](https://poser.pugx.org/kreta/php-cs-fixer-config/license.svg)](https://github.com/kreta/PhpCsFixerConfig/blob/master/LICENSE)
 
 [1]: http://kreta.io/
 [2]: http://cs.sensiolabs.org/
