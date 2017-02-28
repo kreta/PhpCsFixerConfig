@@ -10,7 +10,7 @@
  * file that was distributed with this source code.
  */
 
-declare(strict_types=1);
+declare(strict_types = 1);
 
 namespace Kreta\PhpCsFixerConfig;
 
@@ -48,7 +48,7 @@ EOF;
             ],
             'binary_operator_spaces'                      => [
                 'align_double_arrow' => true,
-                'align_equals'       => true,
+                'align_equals'       => false,
             ],
             'blank_line_after_opening_tag'                => true,
             'blank_line_before_return'                    => true,
