@@ -118,13 +118,13 @@ $ vendor/bin/php-cs-fixer fix -v
 $ vendor/bin/php-cs-fixer fix -v --config=.phpspec_cs 
 ```
 
-##Credits
+## Credits
 Kreta is created by:
 >
 **@benatespina** - [benatespina@gmail.com](mailto:benatespina@gmail.com)<br>
 **@gorkalaucirica** - [gorka.lauzirika@gmail.com](mailto:gorka.lauzirika@gmail.com)
 
-##Licensing Options
+## Licensing Options
 [![License](https://poser.pugx.org/kreta/php-cs-fixer-config/license.svg)](https://github.com/kreta/PhpCsFixerConfig/blob/master/LICENSE)
 
 [1]: http://kreta.io/

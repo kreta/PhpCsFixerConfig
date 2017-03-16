@@ -1,4 +1,4 @@
-#CHANGELOG
+# CHANGELOG
 
 This changelog references the relevant changes done between versions.
 
