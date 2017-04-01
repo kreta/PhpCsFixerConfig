@@ -139,7 +139,6 @@ EOF;
             'random_api_migration'                        => true,
             'return_type_declaration'                     => [
                 'space_before' => 'one',
-                'space_after'  => 'one',
             ],
             'self_accessor'                               => true,
             'semicolon_after_instruction'                 => true,
